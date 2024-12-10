@@ -1,0 +1,4 @@
+Windows 10/11
+Python 3.8+
+PowerShell 5.0+
+Python Libraries: psutil
